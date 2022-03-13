@@ -4,7 +4,7 @@
  <tileset firstgid="5441" source="../../../../../../Desktop/Outside_A1.tsx"/>
  <tileset firstgid="5633" source="../../../../../../Desktop/Dungeon_B.tsx"/>
  <tileset firstgid="5889" source="../../../tilesets/gather_shadows_1.x.tsx"/>
- <group id="3" name="background" visible="0">
+ <group id="3" name="background">
   <layer id="1" name="Tile Layer 1" width="32" height="40">
    <data encoding="csv">
 462,462,462,462,462,462,462,462,462,462,462,462,462,462,462,462,462,462,462,462,462,462,462,462,462,462,462,462,462,462,462,462,
