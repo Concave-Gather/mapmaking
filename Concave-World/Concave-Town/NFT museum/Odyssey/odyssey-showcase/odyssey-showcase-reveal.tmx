@@ -3,7 +3,7 @@
  <tileset firstgid="1" source="../../../../Assets/Tilesets (32x32)/Dungeon_A4.tsx"/>
  <tileset firstgid="241" source="../../../../../../../../Desktop/Dungeon_B.tsx"/>
  <tileset firstgid="497" source="../../../../../tilesets/gather_exterior_decoration_1.x.tsx"/>
- <group id="4" name="background" visible="0">
+ <group id="4" name="background">
   <layer id="1" name="floor" width="21" height="30">
    <data encoding="csv">
 105,105,105,105,105,105,105,105,105,105,105,105,105,105,105,105,105,105,105,105,0,
